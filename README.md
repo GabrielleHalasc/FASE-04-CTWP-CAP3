@@ -31,11 +31,17 @@ Tarefas:
 1. Analisar e pré-processar os dados fornecidos: nesta etapa, você deve se familiarizar com o conjunto de dados, entender os atributos e como eles se correlacionam. Siga os passos a seguir:
 
 Crie um arquivo notebook (.ipynb), pode ser jupyter (localmente) ou google Colab (em nuvem);
+
 Importe o conjunto de dados e exiba as primeiras linhas para familiarizar-se com a estrutura;
+
 Calcule estatísticas descritivas (média, mediana, desvio padrão) para cada característica.
+
 Visualize a distribuição das características utilizando histogramas e boxplots.
+
 Utilize gráficos de dispersão para identificar possíveis relações entre as características.
+
 Identifique e trate valores ausentes;
+
 Avalie a necessidade de escalar as características e aplique normalização ou padronização se necessário.
 
 
@@ -43,14 +49,23 @@ Avalie a necessidade de escalar as características e aplique normalização ou 
 2. Implementar e comparar diferentes algoritmos de classificação: nesta etapa, você deverá construir modelos de classificação utilizando diferentes algoritmos e comparar seus desempenhos. Siga os seguintes passos:
 
 Separe os dados em conjuntos de treinamento e teste (por exemplo, 70% para treinamento e 30% para teste).
+
 Escolha pelo menos três algoritmos de classificação diferentes. Por exemplo:
+
 K-Nearest Neighbors (KNN);
+
 Support Vector Machine (SVM);
+
 Random Forest;
+
 Naive Bayes;
+
 Logistic Regression.
+
 Treine cada modelo utilizando o conjunto de treinamento.
+
 Avalie cada modelo no conjunto de teste. Use métricas de desempenho, como acurácia, precisão, recall, F1-score e matrizes de confusão.
+
 Compare o desempenho dos diferentes algoritmos.
 
 
@@ -58,7 +73,17 @@ Compare o desempenho dos diferentes algoritmos.
 3. Otimizar os modelos para melhorar o desempenho (se necessário): após a avaliação inicial, você deve avaliar se é necessário otimizar os modelos para aprimorar o desempenho, caso seja necessário:
 
 Utilize Grid Search ou Randomized Search para encontrar os melhores hiperparâmetros para cada modelo.
+
 Treine novamente cada modelo utilizando os melhores hiperparâmetros encontrados.
+
 Avalie novamente cada modelo otimizado no conjunto de teste. Use métricas de desempenho, como acurácia, precisão, recall, F1-score e matrizes de confusão.
+
 Verifique se houve melhorias significativas no desempenho.
-4. Interpretar os resultados e extrair insights relevantes: por fim, você deverá analisar profundamente os resultados e extrair conclusões significativas. Interprete o desempenho de cada modelo e relacione os resultados com o contexto do nosso problema de classificação de grãos.
+
+
+
+4. Interpretar os resultados e extrair insights relevantes: 
+
+Por fim, você deverá analisar profundamente os resultados e extrair conclusões significativas.
+
+Interprete o desempenho de cada modelo e relacione os resultados com o contexto do nosso problema de classificação de grãos.
