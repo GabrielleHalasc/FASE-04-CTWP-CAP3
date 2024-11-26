@@ -37,6 +37,9 @@ Visualize a distribuição das características utilizando histogramas e boxplot
 Utilize gráficos de dispersão para identificar possíveis relações entre as características.
 Identifique e trate valores ausentes;
 Avalie a necessidade de escalar as características e aplique normalização ou padronização se necessário.
+
+
+
 2. Implementar e comparar diferentes algoritmos de classificação: nesta etapa, você deverá construir modelos de classificação utilizando diferentes algoritmos e comparar seus desempenhos. Siga os seguintes passos:
 
 Separe os dados em conjuntos de treinamento e teste (por exemplo, 70% para treinamento e 30% para teste).
@@ -49,6 +52,9 @@ Logistic Regression.
 Treine cada modelo utilizando o conjunto de treinamento.
 Avalie cada modelo no conjunto de teste. Use métricas de desempenho, como acurácia, precisão, recall, F1-score e matrizes de confusão.
 Compare o desempenho dos diferentes algoritmos.
+
+
+
 3. Otimizar os modelos para melhorar o desempenho (se necessário): após a avaliação inicial, você deve avaliar se é necessário otimizar os modelos para aprimorar o desempenho, caso seja necessário:
 
 Utilize Grid Search ou Randomized Search para encontrar os melhores hiperparâmetros para cada modelo.
