@@ -119,35 +119,34 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>Fase4_Cap3.ipynb</b>: aqui está o arquivo notebook (.ipynb) com os entregáveis compilados.
 - <b>conjunto_de_dados_sementes.txt</b>: aqui está o arquivo em txt utilizado na entrega.
-- - <b>conjunto_de_dados_sementes.csv</b>: aqui está o arquivo em csv utilizado na entrega.
+- <b>conjunto_de_dados_sementes.csv</b>: aqui está o arquivo em csv utilizado na entrega.
 - <b>README.md</b>: arquivo que serve como guia e explicação geral sobre a entrega (o mesmo que você está lendo agora).
 
 
 ## 🔧 Como executar o código
 
-1. Clonar o repositório
-
+Clonar o repositório
 Primeiro, faça o clone deste repositório localmente usando o Git:
 
-git clone https://github.com/AmandaFragnan/FIAP_FASE2.git
+git clone https://github.com/GabrielleHalasc/FIAP4-CAP3.git
 
-2. Instalar dependências
-
+Instalar dependências
 Certifique-se de ter todas as dependências instaladas. Se estiver usando Python, você pode instalar os pacotes necessários com:
 
 pip install -r requirements.txt
 
-3. Executar o código
-   
+Executar o código
 Dependendo da linguagem e estrutura do projeto, execute o código usando o comando apropriado. Para Python, por exemplo:
 
 python main.py
+
+Abrir o notebook
+Para visualizar e executar o notebook que está contido no repositório, abra o arquivo Fase4_Cap3.ipynb. Você pode fazer isso usando o Jupyter Notebook ou qualquer outro ambiente compatível:
+
+jupyter notebook Fase4_Cap3.ipynb
 
 ## Historico de lançamentos
 
 - <b> 0.1.0 - 01/12/2024<b>
   
-## 📋 Licença
-
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/agodoi/template">MODELO GIT FIAP</a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://fiap.com.br">Fiap</a> está licenciado sobre <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 
