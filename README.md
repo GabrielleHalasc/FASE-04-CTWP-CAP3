@@ -117,10 +117,10 @@ Interprete o desempenho de cada modelo e relacione os resultados com o contexto 
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
-- <b>Fase4_Cap3.ipynb</b>: aqui estão os arquivos com o codigo python e ajuste para conexão do banco em nuvem.
-
-- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
-
+- <b>Fase4_Cap3.ipynb</b>: aqui está o arquivo notebook (.ipynb) com os entregáveis compilados.
+- <b>conjunto_de_dados_sementes.txt</b>: aqui está o arquivo em txt utilizado na entrega.
+- - <b>conjunto_de_dados_sementes.csv</b>: aqui está o arquivo em csv utilizado na entrega.
+- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre a entrega (o mesmo que você está lendo agora).
 
 
 ## 🔧 Como executar o código
@@ -145,9 +145,7 @@ python main.py
 
 ## Historico de lançamentos
 
-- <b> 0.2.0 - 15/10/2024<b>
-- <b> 0.1.0 - 13/10/2024<b>
-
+- <b> 0.1.0 - 01/12/2024<b>
   
 ## 📋 Licença
 
