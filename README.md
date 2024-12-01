@@ -7,7 +7,7 @@
 
 <br>
 
-# FIAP Fase2_Cap6 Python e Alem
+# FIAP Fase4_Cap3  Implementando algoritmos de Machine Learning com Scikit-learn
 
 
 ## 👨‍🎓 Integrantes: 
